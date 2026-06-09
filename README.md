@@ -1,40 +1,66 @@
-## Welcome to my profile!!
+## Hi there! ~ I am J. Isaiah Marfil 👋
 
 Introduction
 -
-Hello! I am Jesus Isaiah Marfil. I am an undergraduate student in Bicol University under Bachelor Science in Chemical Engineering.
-I also consider myself as a freelance developer, and is always available to take requests,
+Hello! I am Jesus Isaiah Marfil, an undergraduate Chemical Engineering student at Bicol University and a freelance developer available for requests.
+
+Tagline
+-
+
 
 Interests
 -
-- I always enjoy learning mathematical + chemistry concepts and implementing them through technologies.
-- I do and study Data Science and Cybersecurity.
-- In spare time, I enjoy "ricing" my own Linux system and customizing it in a way that will help me get productive.
+- Learning and applying mathematical and chemistry concepts through technology
+- Data Science and Cybersecurity.
+- "Ricing" and customizing Linux systems for productivity boosts
 
 Skill
 -
-My current skills and knowledge that I have are including but not limited to:
+My current skills and knowledge that I have include (but not limited to):
 - Python (OOP, pandas, tkinter)
+- Basic Chemical Engineering knowledge (Mass Balance, Process Flow)
 - Numerical and Statistical Analysis
 - Proficiency in Office Suites
 - AI Prompt Engineering
-- Proficiency in Linux and its distros (Arch, Debian, Fedora)
+- Linux (Arch, Debian, Fedora)
 
 What I'm currently working on?
 -
-So far, I have been looking up self-projects that I can use during my time as a Chemical Engineering student. That is what my latest project ChE Process Suite is all about, a suite that contains tools needed in laboratories.
-During the course of my studies, our professor occassionally give us "Machine Problems" projects, where we must solve the given tasks using technologies and tools (which is exactly what my System-Of-Equation repo is all about).
-But for now, the only working project that I had right now was more of a research paper than a project: *Can statistical analysis help determine whether an anomaly in an industrial process system is a physical fault or a cyber-induced attack?*
+- Research Paper - *Can statistical analysis help determine whether an anomaly in an industrial process system is a physical fault or a cyber-induced attack?*
+- Pro-ChE-ss Suite - A collection of lab tools for chemical engineering courseworks (finished, receiving rolling updates)
 
 Learning Goals
 -
-Currently, my only learning goal was to improve my current skills, especially with mathematical concepts. I am also currently in-depth with cybersecurity and ethical hacking, as I find GRC interesting to me.
+- Deepen mathematical knowledge and analysis
+- Understanding system internals more deeply
+- Integration of Data Science and Cybersecurity with Chemical Engineering
+- Advance learning of cybersecurity and ethical hacking with focus on Governance, Risk, and Compliance (GRC)
+- In spare time: learn additional programming languages and tools (C++, SQL, Java, JavaScript)
+
+Projects
+- 
+| Project | Description | Tools | Status | Link |
+| --- | --- | --- | --- | --- |
+| System of Equations | A *Basic Engineering Mathematics* Machine Problem project -- A Gauss-Seidel and Jacobi comparative analysis | Python, Jupyter, Spreadsheet| Finished -- for refactoring | https://github.com/ice-lifram/Systems-of-Equations |
+| Solar Mo Lang SCADA Detection System | SCADA-inspired solar monitoring system GUI | Python (customtkinter, matplotlib) | Completed (delivered to the client) | https://github.com/ice-lifram/SCADA-solar-system | 
+| Pro-ChE-ss Suite | Collection of lab tools for ChE coursework | Python | Finished — receiving rolling updates | https://github.com/ice-lifram/ChemE_Process_Suite |
+| Anomaly Analysis (Research) | Statistical Analysis to distinguish physical fault and cyber-induced attacks | Python (scikit-learn, matplotlib) | Active | None
 
 Contacts
--
+- 
 - isaiah.marfil.1110@gmail.com
 - jesusisaiahbbuiza.marfil25@bicol-u.edu.ph
 - Facebook: Jesus Isaiah Buiza Marfil
+
+***
+**Analyze**   
+
+
+**Optimize**   
+
+
+**Execute**
+
 
 <!--
 **ice-lifram/ice-lifram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
