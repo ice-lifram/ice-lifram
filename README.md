@@ -2,7 +2,7 @@
 
 Introduction
 -
-I am Jesus Isaiah B. Marfil, but you can call me Ice. I am an undergraduate student in Bicol University under Bachelor Science in Chemical Engineering.
+Hello! I am Jesus Isaiah Marfil. I am an undergraduate student in Bicol University under Bachelor Science in Chemical Engineering.
 I also consider myself as a freelance developer, and is always available to take requests,
 
 Interests
@@ -24,7 +24,7 @@ What I'm currently working on?
 -
 So far, I have been looking up self-projects that I can use during my time as a Chemical Engineering student. That is what my latest project ChE Process Suite is all about, a suite that contains tools needed in laboratories.
 During the course of my studies, our professor occassionally give us "Machine Problems" projects, where we must solve the given tasks using technologies and tools (which is exactly what my System-Of-Equation repo is all about).
-But for now, the only working project that I had right now was more of a research paper than a project: *Can statistical analysis help determine whether an anomaly in an industrial process system is a physical fault or a cyber-induced attack*
+But for now, the only working project that I had right now was more of a research paper than a project: *Can statistical analysis help determine whether an anomaly in an industrial process system is a physical fault or a cyber-induced attack?*
 
 Learning Goals
 -
@@ -32,9 +32,9 @@ Currently, my only learning goal was to improve my current skills, especially wi
 
 Contacts
 -
-isaiah.marfil.1110@gmail.com
-jesusisaiahbbuiza.marfil25@bicol-u.edu.ph
-Facebook: Jesus Isaiah Buiza Marfil
+- isaiah.marfil.1110@gmail.com
+- jesusisaiahbbuiza.marfil25@bicol-u.edu.ph
+- Facebook: Jesus Isaiah Buiza Marfil
 
 <!--
 **ice-lifram/ice-lifram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
