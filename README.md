@@ -4,9 +4,6 @@ Introduction
 -
 Hello! I am Jesus Isaiah Marfil, an undergraduate Chemical Engineering student at Bicol University and a freelance developer available for requests.
 
-Tagline
--
-
 
 Interests
 -
