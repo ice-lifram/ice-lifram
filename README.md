@@ -1,8 +1,8 @@
-## Hi there! ~ I am J. Isaiah Marfil 👋
+## Hi there! ~  👋
 
 Introduction
 -
-Hello! I am Jesus Isaiah Marfil -- an undergraduate Chemical Engineering student at Bicol University, an aspiring security-based Analytics Engineer, and a freelance developer available for requests.
+Hello! I am Ice Lifram -- an undergraduate Chemical Engineering student, an aspiring security-based Analytics Engineer, and a freelance developer available for requests.
 
 
 Interests
@@ -51,9 +51,7 @@ Projects
 
 Contacts
 - 
-- isaiah.marfil.1110@gmail.com
-- jesusisaiahbbuiza.marfil25@bicol-u.edu.ph
-- Facebook: Jesus Isaiah Buiza Marfil
+- seer.absolutezero@gmail.com
 
 ***
 **Analyze** • **Optimize** • **Execute**
