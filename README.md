@@ -8,9 +8,9 @@ Hello! I am Jesus Isaiah Marfil -- an undergraduate Chemical Engineering student
 Interests
 -
 - Learning and applying mathematical and chemistry concepts through technology
-- Data Analytics and Cybersecurity.
+- Data Analytics and Cybersecurity (Penetration Testing).
 - "Ricing" and customizing Linux systems for productivity boosts
-- Prefers cleaning and interpreting data
+- Data Cleaning and Visualization
 
 Skill
 -
@@ -24,7 +24,7 @@ My current skills and knowledge that I have include (but not limited to):
 
 What I'm currently working on?
 -
-- Industrial Risk Assessment Analytics - Data-driven platform that identifies operational risks in processes
+- Cyber Incident Impact Analytics and Anomaly Detection - A financial impact of cyber incident analysis and identify statistical anomalous phenomena
 - Security Control Effectiveness Dashboard - Measure and visualize how effectively security controls reduce organizational risk
 - Cyber-Physical Incident Analysis Report - A searchable repository of cybersecurity incidents on the industry with analytical insight
 - Pro-ChE-ss Suite - A collection of lab tools for chemical engineering courseworks (finished, receiving rolling updates)
@@ -44,7 +44,7 @@ Projects
 | System of Equations | A *Basic Engineering Mathematics* Machine Problem project -- A Gauss-Seidel and Jacobi comparative analysis | Python, Jupyter, Spreadsheet| Finished -- for refactoring | https://github.com/ice-lifram/Systems-of-Equations |
 | Solar Mo Lang -- SCADA Detection System | SCADA-inspired solar monitoring system GUI | Python (customtkinter, matplotlib) | Finished (delivered to the client) | https://github.com/ice-lifram/SCADA-solar-system | 
 | Pro-ChE-ss Suite | Collection of lab tools for ChE coursework | Python | Finished — receiving rolling updates | https://github.com/ice-lifram/ChemE_Process_Suite |
-| Industrial Risk Assessment Analytics | Data-drive platform that identifies operational risks in industrial processes | Python (TBD) | Active | TBA |
+| Cyber Incident Impact Analytics and Anomaly Detection | Data-drive platform that identifies operational risks in industrial processes | Excel, CSV, Python | Active | https://github.com/ice-lifram/cyber-incident-impact-analysis |
 | Security Control Effectiveness Dashboard | Measure and visualize how effectively security controls reduce organizational risk | Python (Pandas, Numpy, Matplotlib), Streamlit or Power BI for Visualization | Active | TBA |
 | Cyber-Physical Incident Analysis Repository | A searchable repository of industrial and cybersecurity incidents with analytical insights | Python, Streamlit and Plotly | Active | TBA |
 | Anomaly Analysis (Research) | Statistical Analysis to distinguish physical fault and cyber-induced attacks | Python (scikit-learn, matplotlib) | On-hold | --- |
