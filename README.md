@@ -44,7 +44,7 @@ Projects
 | System of Equations | A *Basic Engineering Mathematics* Machine Problem project -- A Gauss-Seidel and Jacobi comparative analysis | Python, Jupyter, Spreadsheet| Finished -- for refactoring | https://github.com/ice-lifram/Systems-of-Equations |
 | Solar Mo Lang -- SCADA Detection System | SCADA-inspired solar monitoring system GUI | Python (customtkinter, matplotlib) | Finished (delivered to the client) | https://github.com/ice-lifram/SCADA-solar-system | 
 | Pro-ChE-ss Suite | Collection of lab tools for ChE coursework | Python | Finished — receiving rolling updates | https://github.com/ice-lifram/ChemE_Process_Suite |
-| Cyber Incident Impact Analytics and Anomaly Detection | Analysis of Financial Impact of Cyberattack and Statistical Anomalous Events | Excel, CSV, Python | Active | https://github.com/ice-lifram/cyber-incident-impact-analysis |
+| Cyber Incident Impact Analytics and Anomaly Detection | Statistical Analysis of cyber incidents on financial and market impacts | Excel, CSV, Python | Active | https://github.com/ice-lifram/cyber-incident-impact-analysis |
 | Security Control Effectiveness Dashboard | Measure and visualize how effectively security controls reduce organizational risk | Python (Pandas, Numpy, Matplotlib), Streamlit or Power BI for Visualization | Active | TBA |
 | Cyber-Physical Incident Analysis Repository | A searchable repository of industrial and cybersecurity incidents with analytical insights | Python, Streamlit and Plotly | Active | TBA |
 | Anomaly Analysis (Research) | Statistical Analysis to distinguish physical fault and cyber-induced attacks | Python (scikit-learn, matplotlib) | On-hold | --- |
