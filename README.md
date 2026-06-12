@@ -26,7 +26,6 @@ What I'm currently working on?
 -
 - Cyber Incident Impact Analytics and Anomaly Detection - A financial impact of cyber incident analysis and identify statistical anomalous phenomena
 - Security Control Effectiveness Dashboard - Measure and visualize how effectively security controls reduce organizational risk
-- Cyber-Physical Incident Analysis Report - A searchable repository of cybersecurity incidents on the industry with analytical insight
 - Pro-ChE-ss Suite - A collection of lab tools for chemical engineering courseworks (finished, receiving rolling updates)
 
 Learning Goals
@@ -46,7 +45,6 @@ Projects
 | Pro-ChE-ss Suite | Collection of lab tools for ChE coursework | Python | Finished — receiving rolling updates | https://github.com/ice-lifram/ChemE_Process_Suite |
 | Cyber Incident Impact Analytics and Anomaly Detection | Statistical Analysis of cyber incidents on financial and market impacts | Excel, CSV, Python | Active | https://github.com/ice-lifram/cyber-incident-impact-analysis |
 | Security Control Effectiveness Dashboard | Measure and visualize how effectively security controls reduce organizational risk | Python (Pandas, Numpy, Matplotlib), Streamlit or Power BI for Visualization | Active | TBA |
-| Cyber-Physical Incident Analysis Repository | A searchable repository of industrial and cybersecurity incidents with analytical insights | Python, Streamlit and Plotly | Active | TBA |
 | Anomaly Analysis (Research) | Statistical Analysis to distinguish physical fault and cyber-induced attacks | Python (scikit-learn, matplotlib) | On-hold | --- |
 
 Contacts
