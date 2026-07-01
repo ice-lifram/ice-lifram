@@ -47,7 +47,7 @@ Projects
 | Solar Mo Lang -- SCADA Detection System | SCADA-inspired solar monitoring system GUI | Python (customtkinter, matplotlib) | Finished (delivered to the client) | https://github.com/ice-lifram/SCADA-solar-system | 
 | Pro-ChE-ss Suite | Collection of lab tools for ChE coursework | Python | Finished — receiving rolling updates | https://github.com/ice-lifram/ChemE_Process_Suite |
 | Cyber Incident Impact Analytics and Anomaly Detection | Statistical Analysis of cyber incidents on financial and market impacts | Excel, CSV, Python | Active | https://github.com/ice-lifram/cyber-incident-impact-analysis |
-| Personal OLED Dashboard | A personal IoT device for productivity uses| Arduino Nano, OLED 0.93 In, Python (for date and time) | Active | TBA |
+| Personal OLED Dashboard | A personal IoT device for productivity uses| Arduino Nano, OLED 0.93 In, Python (for date and time) | Active | https://github.com/ice-lifram/OLED_personal_dashboard |
 | Sound and Temp Anomaly Detection | An Arduino project for data analysis and visualization practice | Arduino UNO/Nano, Thermistor/DHT11, Sound Sensor Module, Python (pyserial, pandas, matplotlib) OLED | On-hold | --- | 
 | Anomaly Analysis (Research) | Statistical Analysis to distinguish physical fault and cyber-induced attacks | Python (scikit-learn, matplotlib) | On-hold | --- |
 
