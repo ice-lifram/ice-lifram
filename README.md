@@ -10,7 +10,7 @@ Interests
 - Learning and applying mathematical and chemistry concepts through technology
 - Data Analytics and Cybersecurity (Penetration Testing).
 - "Ricing" and customizing Linux systems for productivity boosts
-- Electronics (repairing, breadboarding, Arduino)
+- Electronics (troubleshooting, repairs, breadboarding, Arduino)
 - Data Cleaning and Visualization
 
 Skill
@@ -27,8 +27,8 @@ My current skills and knowledge that I have include (but not limited to):
 What I'm currently working on?
 -
 - Cyber Incident Impact Analytics and Anomaly Detection - A financial impact of cyber incident analysis and identify statistical anomalous phenomena
-- OLED Dashboard - A simple IoT device made for personal and productivity uses
-- Sound and Temperature Anomaly Detection - An Arduino project made with the sole purpose of practicing data analysis and visualization to my own data gathering
+- OLED Dashboard "DeskHub" - A simple IoT device made for personal and productivity uses
+- 
 - Pro-ChE-ss Suite - A collection of lab tools for chemical engineering courseworks (finished, receiving rolling updates)
 
 Learning Goals
@@ -47,8 +47,7 @@ Projects
 | Solar Mo Lang -- SCADA Detection System | SCADA-inspired solar monitoring system GUI | Python (customtkinter, matplotlib) | Finished (delivered to the client) | https://github.com/ice-lifram/SCADA-solar-system | 
 | Pro-ChE-ss Suite | Collection of lab tools for ChE coursework | Python | Finished — receiving rolling updates | https://github.com/ice-lifram/ChemE_Process_Suite |
 | Cyber Incident Impact Analytics and Anomaly Detection | Statistical Analysis of cyber incidents on financial and market impacts | Excel, CSV, Python | Active | https://github.com/ice-lifram/cyber-incident-impact-analysis |
-| Personal OLED Dashboard | A personal IoT device for productivity uses| Arduino Nano, OLED 0.93 In, Python (for date and time) | Active | https://github.com/ice-lifram/OLED_personal_dashboard |
-| Sound and Temp Anomaly Detection | An Arduino project for data analysis and visualization practice | Arduino UNO/Nano, Thermistor/DHT11, Sound Sensor Module, Python (pyserial, pandas, matplotlib) OLED | On-hold | --- | 
+| Personal OLED Dashboard | A personal IoT device for productivity uses | Arduino Nano, OLED 0.93 In, Python (for date and time) | Active | https://github.com/ice-lifram/OLED_personal_dashboard | 
 | Anomaly Analysis (Research) | Statistical Analysis to distinguish physical fault and cyber-induced attacks | Python (scikit-learn, matplotlib) | On-hold | --- |
 
 Contacts
