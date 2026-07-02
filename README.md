@@ -22,6 +22,7 @@ My current skills and knowledge that I have include (but not limited to):
 - Proficiency in Office Suites
 - Electronics Product and Assembly
 - AI Prompt Engineering
+- Capture The Flags tools (nmap, wireshark, metasplot, buster linPEASS) 
 - Linux (Arch, Debian, Fedora)
 
 What I'm currently working on?
@@ -43,12 +44,13 @@ Projects
 - 
 | Project | Description | Tools | Status | Link |
 | --- | --- | --- | --- | --- |
-| System of Equations | A *Basic Engineering Mathematics* Machine Problem project -- A Gauss-Seidel and Jacobi comparative analysis | Python, Jupyter, Spreadsheet| Finished -- for refactoring | https://github.com/ice-lifram/Systems-of-Equations |
-| Solar Mo Lang -- SCADA Detection System | SCADA-inspired solar monitoring system GUI | Python (customtkinter, matplotlib) | Finished (delivered to the client) | https://github.com/ice-lifram/SCADA-solar-system | 
-| Pro-ChE-ss Suite | Collection of lab tools for ChE coursework | Python | Finished — receiving rolling updates | https://github.com/ice-lifram/ChemE_Process_Suite |
+| System of Equations | A *Basic Engineering Mathematics* Machine Problem project -- A Gauss-Seidel and Jacobi comparative analysis | Python, Jupyter, Spreadsheet| Stable | https://github.com/ice-lifram/Systems-of-Equations |
+| Solar Mo Lang -- SCADA Detection System | SCADA-inspired solar monitoring system GUI | Python (customtkinter, matplotlib) | Stable | https://github.com/ice-lifram/SCADA-solar-system | 
+| Pro-ChE-ss Suite | Collection of lab tools for ChE coursework | Python | Maintenance | https://github.com/ice-lifram/ChemE_Process_Suite |
 | Cyber Incident Impact Analytics and Anomaly Detection | Statistical Analysis of cyber incidents on financial and market impacts | Excel, CSV, Python | Active | https://github.com/ice-lifram/cyber-incident-impact-analysis |
-| Personal OLED Dashboard | A personal IoT device for productivity uses | Arduino Nano, OLED 0.93 In, Python (for date and time) | Active | https://github.com/ice-lifram/OLED_personal_dashboard | 
+| DeskHub | A personal IoT device for productivity uses | Arduino Nano, OLED 0.93 In, Python (for date and time) | Maintenance | https://github.com/ice-lifram/OLED_personal_dashboard | 
 | Anomaly Analysis (Research) | Statistical Analysis to distinguish physical fault and cyber-induced attacks | Python (scikit-learn, matplotlib) | On-hold | --- |
+| Electronics Lab | A collection of hardware experiments and concept testing | Arduino UNO, Nano | On-going | --- |
 
 Contacts
 - 
