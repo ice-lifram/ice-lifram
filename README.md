@@ -22,14 +22,14 @@ My current skills and knowledge that I have include (but not limited to):
 - Proficiency in Office Suites
 - Electronics Product and Assembly
 - AI Prompt Engineering
-- Capture The Flags tools (nmap, wireshark, metasplot, buster linPEASS) 
+- Capture The Flag tools (nmap, wireshark, exploitDB,linPEAS) 
 - Linux (Arch, Debian, Fedora)
 
 What I'm currently working on?
 -
 - Cyber Incident Impact Analytics and Anomaly Detection - A financial impact of cyber incident analysis and identify statistical anomalous phenomena
 - OLED Dashboard "DeskHub" - A simple IoT device made for personal and productivity uses
-- 
+- A visual novel game with Pygame
 - Pro-ChE-ss Suite - A collection of lab tools for chemical engineering courseworks (finished, receiving rolling updates)
 
 Learning Goals
@@ -44,13 +44,17 @@ Projects
 - 
 | Project | Description | Tools | Status | Link |
 | --- | --- | --- | --- | --- |
+| **Feature Projects** |
 | System of Equations | A *Basic Engineering Mathematics* Machine Problem project -- A Gauss-Seidel and Jacobi comparative analysis | Python, Jupyter, Spreadsheet| Stable | https://github.com/ice-lifram/Systems-of-Equations |
 | Solar Mo Lang -- SCADA Detection System | SCADA-inspired solar monitoring system GUI | Python (customtkinter, matplotlib) | Stable | https://github.com/ice-lifram/SCADA-solar-system | 
 | Pro-ChE-ss Suite | Collection of lab tools for ChE coursework | Python | Maintenance | https://github.com/ice-lifram/ChemE_Process_Suite |
 | Cyber Incident Impact Analytics and Anomaly Detection | Statistical Analysis of cyber incidents on financial and market impacts | Excel, CSV, Python | Active | https://github.com/ice-lifram/cyber-incident-impact-analysis |
 | DeskHub | A personal IoT device for productivity uses | Arduino Nano, OLED 0.93 In, Python (for date and time) | Maintenance | https://github.com/ice-lifram/OLED_personal_dashboard | 
+| Visual Novel Game | --- | Python with Pygame | Active | https://github.com/ice-lifram/visual-novel-game |
 | Anomaly Analysis (Research) | Statistical Analysis to distinguish physical fault and cyber-induced attacks | Python (scikit-learn, matplotlib) | On-hold | --- |
-| Electronics Lab | A collection of hardware experiments and concept testing | Arduino UNO, Nano | On-going | --- |
+| **Laboratories** |
+| Electronics Lab | A collection of hardware experiments and concept testing | Arduino UNO, Nano | On-going | https://github.com/ice-lifram/electronics-lab |
+| Analysis Lab | A collection of small, fast-paced data analysis projects | Common: Python, Spreadsheet, Jupyter | On-going | --- |
 
 Contacts
 - 
