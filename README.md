@@ -13,7 +13,7 @@ Interests
 - Electronics (troubleshooting, repairs, breadboarding, Arduino)
 - Data Cleaning and Visualization
 
-Skill
+Skills
 -
 My current skills and knowledge that I have include (but not limited to):
 - Python (OOP, pandas, tkinter)
@@ -28,8 +28,8 @@ My current skills and knowledge that I have include (but not limited to):
 What I'm currently working on?
 -
 - Cyber Incident Impact Analytics and Anomaly Detection - A financial impact of cyber incident analysis and identify statistical anomalous phenomena
-- OLED Dashboard "DeskHub" - A simple IoT device made for personal and productivity uses
-- A visual novel game with Pygame
+- Ice Lifram's PDA, based on the STALKER franchise + original PDAs
+- "Summer Circuits": A visual novel story with Pygame
 - Pro-ChE-ss Suite - A collection of lab tools for chemical engineering courseworks (finished, receiving rolling updates)
 
 Learning Goals
@@ -49,8 +49,8 @@ Projects
 | Solar Mo Lang -- SCADA Detection System | SCADA-inspired solar monitoring system GUI | Python (customtkinter, matplotlib) | Stable | https://github.com/ice-lifram/SCADA-solar-system | 
 | Pro-ChE-ss Suite | Collection of lab tools for ChE coursework | Python | Maintenance | https://github.com/ice-lifram/ChemE_Process_Suite |
 | Cyber Incident Impact Analytics and Anomaly Detection | Statistical Analysis of cyber incidents on financial and market impacts | Excel, CSV, Python | Active | https://github.com/ice-lifram/cyber-incident-impact-analysis |
-| DeskHub | A personal IoT device for productivity uses | Arduino Nano, OLED 0.93 In, Python (for date and time) | Maintenance | https://github.com/ice-lifram/OLED_personal_dashboard | 
-| Visual Novel Game | --- | Python with Pygame | Active | https://github.com/ice-lifram/visual-novel-game |
+| Ice Lifram's PDA | A Personal Digital Assistant | Arduino Nano, OLED 0.93 In, Python (for date and time) | Maintenance | https://github.com/ice-lifram/OLED_personal_dashboard | 
+| "Summer Circuits" | --- | Python with Pygame | Active | https://github.com/ice-lifram/visual-novel-game |
 | Anomaly Analysis (Research) | Statistical Analysis to distinguish physical fault and cyber-induced attacks | Python (scikit-learn, matplotlib) | On-hold | --- |
 | **Laboratories** |
 | Electronics Lab | A collection of hardware experiments and concept testing | Arduino UNO, Nano | On-going | https://github.com/ice-lifram/electronics-lab |
