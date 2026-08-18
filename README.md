@@ -12,6 +12,7 @@ Interests
 - "Ricing" and customizing Linux systems for productivity boosts
 - Electronics (troubleshooting, repairs, breadboarding, Arduino)
 - Data Cleaning and Visualization
+- Datathons
 
 Skills
 -
