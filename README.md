@@ -16,20 +16,18 @@ Interests
 Skills
 -
 My current skills and knowledge that I have include (but not limited to):
-- Python (OOP, pandas, tkinter)
+- Python (OOP, pandas, tkinter, matplotlib)
 - Basic Chemical Engineering knowledge (Mass Balance, Process Flow)
 - Numerical and Statistical Analysis
 - Proficiency in Office Suites
 - Electronics Product and Assembly
 - AI Prompt Engineering
-- Capture The Flag tools (nmap, wireshark, exploitDB,linPEAS) 
 - Linux (Arch, Debian, Fedora)
 
 What I'm currently working on?
 -
-- Cyber Incident Impact Analytics and Anomaly Detection - A financial impact of cyber incident analysis and identify statistical anomalous phenomena
-- Ice Lifram's PDA, based on the STALKER franchise + original PDAs
-- "Summer Circuits": A visual novel story with Pygame
+- A data science project (currently unnamed) (datasets from OCDex)\
+- random IoT projects
 - Pro-ChE-ss Suite - A collection of lab tools for chemical engineering courseworks (finished, receiving rolling updates)
 
 Learning Goals
@@ -48,13 +46,11 @@ Projects
 | System of Equations | A *Basic Engineering Mathematics* Machine Problem project -- A Gauss-Seidel and Jacobi comparative analysis | Python, Jupyter, Spreadsheet| Stable | https://github.com/ice-lifram/Systems-of-Equations |
 | Solar Mo Lang -- SCADA Detection System | SCADA-inspired solar monitoring system GUI | Python (customtkinter, matplotlib) | Stable | https://github.com/ice-lifram/SCADA-solar-system | 
 | Pro-ChE-ss Suite | Collection of lab tools for ChE coursework | Python | Maintenance | https://github.com/ice-lifram/ChemE_Process_Suite |
-| Cyber Incident Impact Analytics and Anomaly Detection | Statistical Analysis of cyber incidents on financial and market impacts | Excel, CSV, Python | Active | https://github.com/ice-lifram/cyber-incident-impact-analysis |
 | Ice Lifram's PDA | A Personal Digital Assistant | Arduino Nano, OLED 0.93 In, Python (for date and time) | Maintenance | https://github.com/ice-lifram/OLED_personal_dashboard | 
 | "Summer Circuits" | --- | Python with Pygame | Active | https://github.com/ice-lifram/visual-novel-game |
-| Anomaly Analysis (Research) | Statistical Analysis to distinguish physical fault and cyber-induced attacks | Python (scikit-learn, matplotlib) | On-hold | --- |
+| Cyber Incident Impact Analytics and Anomaly Detection | Statistical Analysis of cyber incidents on financial and market impacts | Excel, CSV, Python | Active | https://github.com/ice-lifram/cyber-incident-impact-analysis |
 | **Laboratories** |
 | Electronics Lab | A collection of hardware experiments and concept testing | Arduino UNO, Nano | On-going | https://github.com/ice-lifram/electronics-lab |
-| Analysis Lab | A collection of small, fast-paced data analysis projects | Common: Python, Spreadsheet, Jupyter | On-going | --- |
 
 Contacts
 - 
