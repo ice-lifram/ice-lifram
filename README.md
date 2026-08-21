@@ -27,9 +27,9 @@ My current skills and knowledge that I have include (but not limited to):
 
 What I'm currently working on?
 -
-- A data science project (currently unnamed) (datasets from OCDex)\
 - random IoT projects
 - Pro-ChE-ss Suite - A collection of lab tools for chemical engineering courseworks (finished, receiving rolling updates)
+- Datathon
 
 Learning Goals
 -
@@ -52,6 +52,7 @@ Projects
 | Cyber Incident Impact Analytics and Anomaly Detection | Statistical Analysis of cyber incidents on financial and market impacts | Excel, CSV, Python | Active | https://github.com/ice-lifram/cyber-incident-impact-analysis |
 | **Laboratories** |
 | Electronics Lab | A collection of hardware experiments and concept testing | Arduino UNO, Nano | On-going | https://github.com/ice-lifram/electronics-lab |
+| Home Datathons | A solo, at home datathon projects, prioritizing data cleaning, EDA, and predictive modeling | Data Analysis tools | On-going | https://github.com/ice-lifram/lifram-datathon |
 
 Contacts
 - 
